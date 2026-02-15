@@ -1,0 +1,6 @@
+[submodule "codecrafters-shell-go"]
+	path = codecrafters-shell-go
+	url = git@github.com:c-kirkeby/codecrafters-shell-go
+[submodule "kafka-go"]
+	path = kafka-go
+	url = git@github.com:c-kirkeby/kafka-go
